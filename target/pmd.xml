@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.5.1" timestamp="2017-11-08T16:19:22.676">
+<file name="C:\ibm-pune-maven-projects\wcs\src\main\java\com\example\Calculator.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Import Statements" package="com.example" externalInfoUrl="https://pmd.github.io/pmd-5.5.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.concurrent.TimeUnit'
+</violation>
+</file>
+</pmd>
