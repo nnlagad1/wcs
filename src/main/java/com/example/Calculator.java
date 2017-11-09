@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 public class Calculator {
 
 	public int sum(int valOne, int valTwo) {
-		return valOne + valTwo;
+		return valOne + valTwo;;a
 	};
 
 	public int divide(int valOne, int valTwo) {
