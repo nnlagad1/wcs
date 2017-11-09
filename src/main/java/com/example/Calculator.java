@@ -10,11 +10,6 @@ public class Calculator {
 	}
 
 	public int divide(int valOne, int valTwo) {
-		// 200 DB loc
-		/*try {
-			TimeUnit.SECONDS.sleep(5);
-		} catch (Exception e) {
-		}*/
 		return valOne / valTwo;
 	}
 	
