@@ -5,7 +5,7 @@
   <groupId>com.ibm.isl</groupId>
   <artifactId>wcs</artifactId>
   <version>1.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   
   <name>wcs</name>
   <url>http://maven.apache.org</url>
